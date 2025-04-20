@@ -13,15 +13,5 @@ Puedes acceder al curso en el siguiente enlace:
 - **Proyectos:** Proyectos finales o intermedios desarrollados durante el aprendizaje.
 - **Notas:** Archivos con apuntes o explicaciones adicionales.
 
-## Requisitos
 
-Para ejecutar el código de este repositorio, necesitas:
-
-- Python 3.8 o superior.
-- Un editor de texto o IDE como Visual Studio Code.
-
-## Cómo Usar Este Repositorio
-
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+JROMERO.
